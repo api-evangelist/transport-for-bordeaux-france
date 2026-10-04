@@ -39,7 +39,6 @@ apis:
   - name: Transport for Bordeaux, France
     description: "Bordeaux Métropole public transport and more (France)"
     humanURL: https://opendata.bordeaux-metropole.fr/explore/
-    baseURL: https://opendata.bordeaux-metropole.fr/explore/
     tags:
       - Transportation
     properties:
